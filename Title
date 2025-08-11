@@ -1,0 +1,2 @@
+app.replaceString("is typing", "this fucker is mocking you");
+app.replaceString("are typing", "these fuckers are mocking you you");
