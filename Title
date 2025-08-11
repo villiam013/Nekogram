@@ -1,0 +1,2 @@
+nekogram.replaceString("is typing", "she is coursing you");
+nekogram.replaceString("are typing", "they are coursing you");
